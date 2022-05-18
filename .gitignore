@@ -1,0 +1,5 @@
+mnist-microservice/__pycache__/image.cpython-39.pyc
+mnist-microservice/Dockerfile
+mnist-microservice/image.py
+mnist-microservice/mnist_recognizer.py
+mnist-microservice/model.h5
